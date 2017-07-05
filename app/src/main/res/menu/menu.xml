@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_arama"
+
+        android:title="Arama"
+
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <item android:id="@+id/action_profil"
+        android:title="Profil Düzenle"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+</menu>
